@@ -1,4 +1,4 @@
-# Jogo de Adivinhação - O Cofre (C#)
+# Jogo de Adivinhação 
 
 O que foi implementado:
 - `Console.WriteLine` e `Console.ReadLine` para exibir mensagens e ler o que o usuário digita.
